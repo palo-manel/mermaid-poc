@@ -1,8 +1,12 @@
 # Mermaid POC
 
-[Mermaid](https://github.com/mermaid-js/mermaid#readme) is a JavaScript based diagramming and charting tool that takes Markdown-inspired text definitions and creates diagrams dynamically in the browser. It supports a bunch of different common diagram types for software projects, including flowcharts, UML, Git graphs, user journey diagrams, and even the dreaded Gantt chart.
+[Mermaid](https://github.com/mermaid-js/mermaid#readme) is a JavaScript based diagramming and charting tool that takes Markdown-inspired text definitions and creates diagrams dynamically in the browser.
+
+It supports a bunch of different common diagram types for software projects, including flowcharts, UML, Git graphs, user journey diagrams, and even the dreaded Gantt chart.
 
 [Github has rolled out](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) a change that will allow you to create graphs inline using [Mermaid syntax](https://mermaid-js.github.io/mermaid/#/n00b-syntaxReference?id=syntax-structure).
+
+There's a [Mermaid Live Editor](https://mermaid.live/) that you can use to preview your diagrams before including them in your documents.
 
 Supported diagram types:
 
